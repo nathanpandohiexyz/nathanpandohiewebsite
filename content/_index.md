@@ -11,6 +11,6 @@ This website is based on [Eric Murphy's website](https://ericmurphy.xyz). As you
 ## Looking for something?
 
 - 📜 Find my programs and the full source code for this website on [GitHub](https://github.com/nathanpandohiexyz).
-- 💻 Want to know what programs I use on a daily basis? See my [Uses](/uses) page.
-- ✉ Want to get in touch? Feel free to [drop me an email](/contact).
+- 💻 Want to know what programs I use on a daily basis? See my [Uses](uses/index.md) page.
+- ✉ Want to get in touch? Feel free to [drop me an email](contact).
 {{</ card >}}
