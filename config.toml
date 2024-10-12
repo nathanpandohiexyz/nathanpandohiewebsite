@@ -11,10 +11,6 @@ title = "Nathan Pandohie"
     url = "/blog"
     weight = 10
 
-  [[menu.main]]
-    name = "Videos"
-    url = "/videos"
-    weight = 20
 
   [[menu.main]]
     name = "Uses"
